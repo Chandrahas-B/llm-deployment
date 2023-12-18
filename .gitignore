@@ -1,3 +1,4 @@
 .gitignore
+text2sql/__pycache__
 fine-tuned-FLAN-T5-tokenizer/
 hypernetwork-tuned-FLAN-T5/
